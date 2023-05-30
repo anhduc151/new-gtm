@@ -12,11 +12,24 @@
     "@types/node": "20.1.4",
     "@types/react": "18.2.6",
     "@types/react-dom": "18.2.4",
+    "aos": "^2.3.4",
+    "boxicons": "^2.1.4",
     "eslint": "8.40.0",
     "eslint-config-next": "13.4.2",
+    "gsap": "^3.11.5",
     "next": "13.4.2",
+    "numeral": "^2.0.6",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-scroll": "^1.8.9",
+    "react-slick": "^0.29.0",
+    "slick-carousel": "^1.8.1",
     "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@types/aos": "^3.0.4",
+    "@types/numeral": "^2.0.2",
+    "@types/react-scroll": "^1.8.7",
+    "@types/react-slick": "^0.23.10"
   }
 }
