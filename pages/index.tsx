@@ -151,7 +151,7 @@ export default function Home() {
           </div>
 
           <div className="earth">
-<!--             <Earth /> -->
+           {/* <Earth /> */}
           </div>
 
           <div className="infor_outgames">
@@ -314,7 +314,7 @@ export default function Home() {
               Find the right people in the right positions for the best products
             </h4>
           </div>
-<!--           <Sliderhome /> -->
+       {/*   <Sliderhome /> */}
         </div>
 
         <div className="beside_footer">
